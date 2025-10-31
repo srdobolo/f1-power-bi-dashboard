@@ -4,6 +4,10 @@ This Power BI Dashboard provides an interactive view of Formula 1 World Champion
 
 It enables detailed exploration of races, drivers, constructors, and circuits across seven decades of Formula 1 history.
 
+<C:\Users\joaom.DESKTOP-D3PL9V8\OneDrive\Ambiente de Trabalho\f1-dashboard\img\Circuits&Races.png>
+<C:\Users\joaom.DESKTOP-D3PL9V8\OneDrive\Ambiente de Trabalho\f1-dashboard\img\ConstructorInsights.png>
+<C:\Users\joaom.DESKTOP-D3PL9V8\OneDrive\Ambiente de Trabalho\f1-dashboard\img\DriverPerformance.png>
+
 ## Dashboard Highlights
 
 - Season Overview: Interactive breakdown of races, wins, and points per season.
