@@ -6,9 +6,9 @@ It enables detailed exploration of races, drivers, constructors, and circuits ac
 
 ![Circuits & Races](https://github.com/srdobolo/f1-power-bi-dashboard/blob/main/img/Circuits%26Races.png)
 
-![Constructor Insights](img\ConstructorInsights.png)
+![Constructor Insights](https://github.com/srdobolo/f1-power-bi-dashboard/blob/main/img/ConstructorInsights.png)
 
-![Driver Performance](img\DriverPerformance.png)
+![Driver Performance](https://github.com/srdobolo/f1-power-bi-dashboard/blob/main/img/DriverPerformance.png)
 
 ## Dashboard Highlights
 
