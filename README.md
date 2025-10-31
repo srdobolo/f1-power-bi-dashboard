@@ -62,5 +62,4 @@ Dataset: Formula 1 World Championship (1950–2020)
 
 ## License
 
-This Power BI template is open for educational and personal use.
-Please credit the dataset author and this repository if you share or modify it.
+This Power BI template is open for educational and personal use. Please credit the dataset author and this repository if you share or modify it.
