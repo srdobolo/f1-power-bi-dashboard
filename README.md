@@ -1,6 +1,6 @@
 # Power BI F1 Dashboard
 
-This Power BI Dashboard provides an interactive view of Formula 1 World Championship data (1950–2020) using a dataset from Kaggle.
+This Power BI Dashboard provides an interactive view of Formula 1 World Championship data (1950–2024) using a dataset from Kaggle.
 
 It enables detailed exploration of races, drivers, constructors, and circuits across seven decades of Formula 1 history.
 
